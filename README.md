@@ -32,7 +32,3 @@ We are open to various forms of partnerships and collaborations. If you have a p
 ## License & Copyright
 
 Please note that the domain and associated intellectual property are proprietary. Any unauthorized use or replication without explicit permission is prohibited.
-
----
-
-Make sure to replace placeholders like the email address and phone number with your actual contact details. As your project evolves and more details emerge, you should update the README to reflect the latest information about the project.
